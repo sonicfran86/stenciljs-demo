@@ -1,5 +1,5 @@
 {
-  "name": "demo-component",
+  "name": "stenciljs-demo-component",
   "version": "0.0.1",
   "description": "Stencil Component Starter",
   "main": "dist/index.cjs.js",
@@ -9,7 +9,7 @@
   "types": "dist/custom-elements/index.d.ts",
   "collection": "dist/collection/collection-manifest.json",
   "collection:main": "dist/collection/index.js",
-  "unpkg": "dist/demo-component/demo-component.esm.js",
+  "unpkg": "dist/stenciljs-demo-component/stenciljs-demo-component.esm.js",
   "files": [
     "dist/",
     "loader/"

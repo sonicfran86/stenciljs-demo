@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import { MyComponent } from 'component-library-react';
+import { DemoComponent } from 'stenciljs-react-wrapper';
 
 function App() {
   return (
@@ -18,7 +18,7 @@ function App() {
         >
           Learn React
         </a>
-        <MyComponent first="Stencil" last="'Don't call me a framework' JS"></MyComponent>
+        <DemoComponent first="Fran" last="Vellarino"></DemoComponent>
       </header>
     </div>
   );
